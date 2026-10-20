@@ -1,0 +1,1 @@
+Homepage: 4 featured dresses. Collection: all 5 dresses. Cards use object-fit: contain to prevent cropping. Pearl uses moonbeam-2.webp, the wider available photo (not a guaranteed full-length photo). Wholesale stockist steps are a semantic ordered list. Keep the images folder when installing.
