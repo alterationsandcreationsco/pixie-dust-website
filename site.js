@@ -1,0 +1,1 @@
+document.querySelectorAll('#demo-form').forEach(form=>form.addEventListener('submit',e=>{e.preventDefault();document.getElementById('form-status').textContent='Preview only — your message has not been sent or stored.';}));
